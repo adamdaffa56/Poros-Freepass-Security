@@ -17,8 +17,8 @@
 4. Catat tanggal penting berikut,
 	- 17 Februari, Platform Freepass dibuka
 	- 18 Maret, Pemanasan
-	- 19 Februari 20.00 - 20 Februari 20.00, Freepass CTF dimulai
-	- 21 Februari 23.59, Deadline Upload WriteUp
+	- 19 Februari 20.00 - 21 Februari 20.00, Freepass CTF dimulai
+	- 22 Februari 23.59, Deadline Upload WriteUp
 5. Kerjakan sebanyak mungkin challenge CTF yang diberikan.
 6. Buatlah Writeup dengan ketentuan sebagai berikut:
 	- Format .pdf
@@ -26,7 +26,7 @@
 	- Cantumkan nama lengkap, NIM, prodi, serta username CTF pada Writeup
 	- Jelaskan secara jelas dan lengkap langkah-langkah dan script/program - yang anda gunakan untuk menyelsesaikan challange-challenge yang diberikan.
 	- Tidak diperbolehkan untuk hanya memberikan script. Peserta tidak akan diwawancarai apabila hanya memberikan script.
-7. Kumpulkan Writeup selambat lambatnya 21 Februari 2023 pukul 23.59 ke Google forms [berikut](https://forms.gle/x3e4TTjxEpSAWoiW8 "Google Form").
+7. Kumpulkan Writeup selambat lambatnya 22 Februari 2023 pukul 23.59 ke Google forms [berikut](https://forms.gle/x3e4TTjxEpSAWoiW8 "Google Form").
 8. Ikuti wawancara pada tanggal 22 dan 23 malam hari, yang dapat dipilih pada saat pengumpulan Google form.
 
 > Pastikan mengerjakan soal dengan sungguh-sungguh, catat dokumentasi penyelesaian dalam satu dokumen untuk setiap soal yang berhasil maupun belum selesai dikerjakan.
