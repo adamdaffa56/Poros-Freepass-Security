@@ -16,7 +16,7 @@
 	- Binary Exploitation
 4. Catat tanggal penting berikut,
 	- 17 Februari, Platform Freepass dibuka
-	- 18 Maret, Pemanasan
+	- 18 Februari, Pemanasan
 	- 19 Februari 20.00 - 21 Februari 20.00, Freepass CTF dimulai
 	- 22 Februari 23.59, Deadline Upload WriteUp
 5. Kerjakan sebanyak mungkin challenge CTF yang diberikan.
